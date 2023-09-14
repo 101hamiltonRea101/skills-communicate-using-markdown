@@ -15,5 +15,5 @@ var myVar = "Hello, world!";
 - [x] finish setp 1
 - [x] finish step 2
 - [x] finish step 3
-- [ ] finish step 4
-- [ ] finish drop down 
+- [x] finish step 4
+- [x] finish drop down 
