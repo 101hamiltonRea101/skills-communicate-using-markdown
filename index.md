@@ -12,3 +12,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] finish setp 1
+- [x] finish step 2
+- [x] finish step 3
+- [ ] finish step 4
+- [ ] finish drop down 
